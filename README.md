@@ -6,7 +6,6 @@
 
 목차
 1. introduction
---------------------------------  
 part I. tabular solution methods
 2. multi-armed bandits
 3. finite Markov decision processes
@@ -15,7 +14,6 @@ part I. tabular solution methods
 6. temporal-difference learning
 7. n-step bootstrapping
 8. planning and learning with tabular methods
---------------------------------  
 part II. approximate solution methods
 9. on-policy prediction with approximation
 10. on-policy control with approximation
